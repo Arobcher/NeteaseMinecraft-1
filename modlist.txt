@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/txgs888/NeteaseMinecraft/master/Statistics_1.0.jar,,,mods/statistics.jar
