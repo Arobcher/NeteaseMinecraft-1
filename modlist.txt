@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/txgs888/NeteaseMinecraft/master/statistics_dashang.jar,,,mods/statistics.jar
+https://raw.githubusercontent.com/txgs888/NeteaseMinecraft/master/Report.jar,,,Report.jar
